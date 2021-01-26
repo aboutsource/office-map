@@ -20,7 +20,7 @@ click the **"Use this template"** button. You will be prompted to enter a reposi
 Be sure to keep the repository "Public".
 
 In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
-Then select the **gh-pages** branch. 
+Then select the **gh-pages** branch.
 
 ![](docs/github_pages.png)
 
@@ -48,7 +48,7 @@ TODO: test and continue
 
 ### Loading the map in Tiled
 
-The sample map is in the file `map.json`.
+The sample map is in the file `groundfloor.json`.
 You can load this file in [Tiled](https://www.mapeditor.org/).
 
 Now, it's up to you to edit the map and write your own map.
@@ -69,7 +69,7 @@ In particular, you will need to:
 - eventually, you can place exits that link to other maps
 
 All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
-Please be sure to check it out. 
+Please be sure to check it out.
 
 ### Pushing the map
 
